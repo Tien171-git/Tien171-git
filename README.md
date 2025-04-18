@@ -47,8 +47,7 @@ I'm always open to collaborating on projects and innovative ideas. Feel free to 
 <div align="center"> <em>“The beautiful thing about learning is that nobody can take it away from you.” - B.B. King</em> </div>
 
 ### Leetcode
-https://leetcard.jacoblin.cool/tiendinh?ext=heatmap&theme=nordv
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/tiendinh?ext=heatmap&theme=nordv)
 
 <!-- Snake Animation -->
 <div align="center">
