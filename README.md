@@ -1,6 +1,8 @@
 <div align="center">
+    
 ### Leetcode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/tiendinh?ext=heatmap&theme=nordv)
+    
 # 👋 Hi, I'm Dinh Quoc Tien
 
 ### Full-stack Developer | Problem Solver | Continuous Learner
