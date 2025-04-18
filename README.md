@@ -1,5 +1,6 @@
 <div align="center">
-
+### Leetcode
+![Leetcode Stats](https://leetcard.jacoblin.cool/tiendinh?ext=heatmap&theme=nordv)
 # 👋 Hi, I'm Dinh Quoc Tien
 
 ### Full-stack Developer | Problem Solver | Continuous Learner
@@ -45,9 +46,6 @@ I'm a dedicated full-stack developer with a passion for crafting innovative solu
 I'm always open to collaborating on projects and innovative ideas. Feel free to reach out if you'd like to discuss technology, share knowledge, or work together!
 
 <div align="center"> <em>“The beautiful thing about learning is that nobody can take it away from you.” - B.B. King</em> </div>
-
-### Leetcode
-![Leetcode Stats](https://leetcard.jacoblin.cool/tiendinh?ext=heatmap&theme=nordv)
 
 <!-- Snake Animation -->
 <div align="center">
