@@ -9,9 +9,9 @@
 
 _"Code is like a puzzle: every error is a clue to a better solution."_ 🚀
 
-[LinkedIn] •
-[LeetCode] •
-[Facebook] •
+[LinkedIn](https://www.linkedin.com/in/tien-dinh-21a4222b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) •
+[LeetCode](https://leetcode.com/u/tiendinh/) •
+[Facebook](https://www.facebook.com/profile.php?id=100016240685122)
 
 </div>
 
